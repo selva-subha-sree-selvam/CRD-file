@@ -1,0 +1,4 @@
+host: 'localhost'
+user: 'mysql'
+pass: 'root'
+db: 'crd'
